@@ -1,2 +1,3 @@
 # openai-tools
-A project that tests the function calling capability of the OpenAI GPT model.
+
+使用例参考 `main.rkt`。
