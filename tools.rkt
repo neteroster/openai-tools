@@ -2,8 +2,8 @@
 
 (require json)
 
-(require (for-syntax "meta-infomation.rkt")
-         "meta-infomation.rkt")
+(require (for-syntax "meta-information.rkt")
+         "meta-information.rkt")
 
 (provide procedure/llm
          f-with-meta->openai-tool
